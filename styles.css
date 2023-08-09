@@ -121,6 +121,14 @@ canvas {
 }
 
 
+@media (max-width: 1520px) {
+    canvas{
+        background-color: #111;
+        width: 550px;
+    }
+    
+}
+
 @media (max-width: 820px) {
     body {
         display: flex;
